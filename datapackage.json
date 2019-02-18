@@ -1,0 +1,339 @@
+{
+    "profile": "tabular-data-package",
+    "resources": [
+        {
+            "profile": "tabular-data-resource",
+            "encoding": "utf-8",
+            "schema": {
+                "fields": [
+                    {
+                        "trueValues": [
+                            "true",
+                            "True",
+                            "TRUE",
+                            "1"
+                        ],
+                        "falseValues": [
+                            "false",
+                            "False",
+                            "FALSE",
+                            "0"
+                        ],
+                        "decimalChar": ".",
+                        "groupChar": "",
+                        "bareNumber": true,
+                        "type": "string",
+                        "format": "default",
+                        "name": "fullName"
+                    },
+                    {
+                        "name": "electionsName",
+                        "trueValues": [
+                            "true",
+                            "True",
+                            "TRUE",
+                            "1"
+                        ],
+                        "falseValues": [
+                            "false",
+                            "False",
+                            "FALSE",
+                            "0"
+                        ],
+                        "decimalChar": ".",
+                        "groupChar": "",
+                        "bareNumber": true,
+                        "type": "string",
+                        "format": "default"
+                    },
+                    {
+                        "name": "registrationDocumentDate",
+                        "trueValues": [
+                            "true",
+                            "True",
+                            "TRUE",
+                            "1"
+                        ],
+                        "falseValues": [
+                            "false",
+                            "False",
+                            "FALSE",
+                            "0"
+                        ],
+                        "decimalChar": ".",
+                        "groupChar": "",
+                        "bareNumber": true,
+                        "type": "any",
+                        "format": "default"
+                    },
+                    {
+                        "name": "registrationDocumentId",
+                        "trueValues": [
+                            "true",
+                            "True",
+                            "TRUE",
+                            "1"
+                        ],
+                        "falseValues": [
+                            "false",
+                            "False",
+                            "FALSE",
+                            "0"
+                        ],
+                        "decimalChar": ".",
+                        "groupChar": "",
+                        "bareNumber": true,
+                        "type": "any",
+                        "format": "default"
+                    },
+                    {
+                        "name": "birthDate",
+                        "trueValues": [
+                            "true",
+                            "True",
+                            "TRUE",
+                            "1"
+                        ],
+                        "falseValues": [
+                            "false",
+                            "False",
+                            "FALSE",
+                            "0"
+                        ],
+                        "decimalChar": ".",
+                        "groupChar": "",
+                        "bareNumber": true,
+                        "type": "any",
+                        "format": "default"
+                    },
+                    {
+                        "name": "birthPlace",
+                        "trueValues": [
+                            "true",
+                            "True",
+                            "TRUE",
+                            "1"
+                        ],
+                        "falseValues": [
+                            "false",
+                            "False",
+                            "FALSE",
+                            "0"
+                        ],
+                        "decimalChar": ".",
+                        "groupChar": "",
+                        "bareNumber": true,
+                        "type": "any",
+                        "format": "default"
+                    },
+                    {
+                        "name": "nationality",
+                        "trueValues": [
+                            "true",
+                            "True",
+                            "TRUE",
+                            "1"
+                        ],
+                        "falseValues": [
+                            "false",
+                            "False",
+                            "FALSE",
+                            "0"
+                        ],
+                        "decimalChar": ".",
+                        "groupChar": "",
+                        "bareNumber": true,
+                        "type": "any",
+                        "format": "default"
+                    },
+                    {
+                        "name": "residencePeriod",
+                        "trueValues": [
+                            "true",
+                            "True",
+                            "TRUE",
+                            "1"
+                        ],
+                        "falseValues": [
+                            "false",
+                            "False",
+                            "FALSE",
+                            "0"
+                        ],
+                        "decimalChar": ".",
+                        "groupChar": "",
+                        "bareNumber": true,
+                        "type": "any",
+                        "format": "default"
+                    },
+                    {
+                        "name": "education",
+                        "trueValues": [
+                            "true",
+                            "True",
+                            "TRUE",
+                            "1"
+                        ],
+                        "falseValues": [
+                            "false",
+                            "False",
+                            "FALSE",
+                            "0"
+                        ],
+                        "decimalChar": ".",
+                        "groupChar": "",
+                        "bareNumber": true,
+                        "type": "any",
+                        "format": "default"
+                    },
+                    {
+                        "name": "occupation",
+                        "trueValues": [
+                            "true",
+                            "True",
+                            "TRUE",
+                            "1"
+                        ],
+                        "falseValues": [
+                            "false",
+                            "False",
+                            "FALSE",
+                            "0"
+                        ],
+                        "decimalChar": ".",
+                        "groupChar": "",
+                        "bareNumber": true,
+                        "type": "any",
+                        "format": "default"
+                    },
+                    {
+                        "name": "party",
+                        "trueValues": [
+                            "true",
+                            "True",
+                            "TRUE",
+                            "1"
+                        ],
+                        "falseValues": [
+                            "false",
+                            "False",
+                            "FALSE",
+                            "0"
+                        ],
+                        "decimalChar": ".",
+                        "groupChar": "",
+                        "bareNumber": true,
+                        "type": "any",
+                        "format": "default"
+                    },
+                    {
+                        "name": "residencePlace",
+                        "trueValues": [
+                            "true",
+                            "True",
+                            "TRUE",
+                            "1"
+                        ],
+                        "falseValues": [
+                            "false",
+                            "False",
+                            "FALSE",
+                            "0"
+                        ],
+                        "decimalChar": ".",
+                        "groupChar": "",
+                        "bareNumber": true,
+                        "type": "any",
+                        "format": "default"
+                    },
+                    {
+                        "name": "nominatedBy",
+                        "trueValues": [
+                            "true",
+                            "True",
+                            "TRUE",
+                            "1"
+                        ],
+                        "falseValues": [
+                            "false",
+                            "False",
+                            "FALSE",
+                            "0"
+                        ],
+                        "decimalChar": ".",
+                        "groupChar": "",
+                        "bareNumber": true,
+                        "type": "any",
+                        "format": "default"
+                    },
+                    {
+                        "name": "assetsDeclarationUrl",
+                        "trueValues": [
+                            "true",
+                            "True",
+                            "TRUE",
+                            "1"
+                        ],
+                        "falseValues": [
+                            "false",
+                            "False",
+                            "FALSE",
+                            "0"
+                        ],
+                        "decimalChar": ".",
+                        "groupChar": "",
+                        "bareNumber": true,
+                        "type": "any",
+                        "format": "default",
+                        "constraints": {}
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            },
+            "format": "csv",
+            "mediatype": "text/csv",
+            "dialect": {
+                "caseSensitiveHeader": false,
+                "delimiter": ",",
+                "doubleQuote": true,
+                "header": true,
+                "lineTerminator": "\r\n",
+                "quoteChar": "\"",
+                "skipInitialSpace": true
+            },
+            "name": "candidates",
+            "primaryKeys": [
+                "fullName",
+                "electionsName"
+            ],
+            "path": "data/candidates.csv"
+        }
+    ],
+    "contributors": [
+        {
+            "title": "Vanuan",
+            "path": "",
+            "email": "",
+            "role": "author",
+            "organization": ""
+        }
+    ],
+    "licenses": [
+        {
+            "title": "Public Domain Mark 1.0",
+            "path": "http://creativecommons.org/publicdomain/mark/1.0/"
+        }
+    ],
+    "name": "cvk-presidential-candidates",
+    "id": "",
+    "title": "Кандидати в Президенти України",
+    "sources": [
+        {
+            "title": "ЦВК",
+            "path": "http://www.cvk.gov.ua",
+            "email": ""
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+id,uaName
+fullName,ПІБ
+electionsName,Назва виборів
+registrationDocumentDate,Дата рішення ЦВК про реєстрацію
+registrationDocumentId,Номер рішення ЦВК про реєстрацію
+birthDate,Дата народження
+birthPlace,Місце народження
+nationality,Громадянство
+residencePeriod,Проживання в Україні
+education,Освіта
+occupation,Посада (заняття)
+party,Партійність
+residencePlace,Місце проживання
+nominatedBy,Суб’єкт висування або самовисування
+assetsDeclarationUrl,"Сторінка Єдиного державного реєстру декларацій осіб, уповноважених на виконання функцій держави або місцевого самоврядування, що містить електронну декларацію кандидата"
